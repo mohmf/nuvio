@@ -1,0 +1,1237 @@
+[
+  {
+    "id": "collection-c5f706b2",
+    "title": "🔭 Discover",
+    "folders": [
+      {
+        "id": "folder-eeaa8a31",
+        "title": "Popular",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "tmdb_popular_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "tmdb_popular_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "tmdb_popular_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "tmdb_popular_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🔥",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/popular.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-8f4e6241",
+        "title": "Trending",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "trending_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "trending_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🔥",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/trending.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-4b1b38b8",
+        "title": "Top Rated",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "top_rated_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "top_rated_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "top_rated_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "top_rated_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "⭐",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/top-rated.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-fd3de8a3",
+        "title": "IMDb Top 100",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "trending_imdb_top100_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "trending_imdb_top100_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "trending_imdb_top100_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "trending_imdb_top100_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🏆",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/imdb-top-100.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-e59f7935",
+        "title": "In Theaters",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "now_playing_movies"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "now_playing_movies"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🎬",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/in-theaters.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-68acf6d1",
+        "title": "Airing Shows",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "new_latest_airing_shows_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "new_latest_airing_shows_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🎬",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/airing-shows.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-fbdf557d",
+        "title": "Trakt Popular",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "trakt_popular_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "trakt_popular_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🎬",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/trakt-popular.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-47d1e12b",
+        "title": "Trakt Most Watched",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "trakt_most_watched_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "trakt_most_watched_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🎬",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/trakt-most-watched.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-f06c6b8e",
+        "title": "Trakt Most Favorited",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "trakt_most_favorited_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "trakt_most_favorited_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🎬",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/trakt-most-favorited.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      }
+    ],
+    "showAllTab": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "pinToTop": true,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-db771f41",
+    "title": "🎬 Streaming",
+    "folders": [
+      {
+        "id": "folder-4b3b8a4d",
+        "title": "Apple TV+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "streaming_apple_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "streaming_apple_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "streaming_apple_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "streaming_apple_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🎬",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/apple-tv-movies.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-8b97a4bd",
+        "title": "Top Rated Apple TV+",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "streaming_apple_toprated_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "streaming_apple_toprated_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🎬",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/apple-tv-top-rated.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-d3fb0e81",
+        "title": "HBO Max",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "streaming_hbo_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "streaming_hbo_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "streaming_hbo_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "streaming_hbo_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🎬",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/hbo-max-movies.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-af3d4186",
+        "title": "Top Rated HBO Max",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "streaming_hbo_toprated_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "streaming_hbo_toprated_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "streaming_hbo_toprated_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "streaming_hbo_toprated_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🎬",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/hbo-max-top-rated.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-ec6e9d12",
+        "title": "Hulu Popular",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "streaming_hulu_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "streaming_hulu_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "streaming_hulu_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "streaming_hulu_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🎬",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/hulu-movies.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-5203c21b",
+        "title": "Top Rated Hulu",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "streaming_hulu_toprated_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "streaming_hulu_toprated_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "streaming_hulu_toprated_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "streaming_hulu_toprated_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🎬",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/hulu-top-rated.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-70b8e8a5",
+        "title": "Paramount+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "streaming_paramount_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "streaming_paramount_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "streaming_paramount_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "streaming_paramount_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🎬",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/paramount-movies.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-9223ad8d",
+        "title": "Top Rated Paramount+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "streaming_paramount_toprated_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "streaming_paramount_toprated_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "streaming_paramount_toprated_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "streaming_paramount_toprated_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🎬",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/paramount-top-rated.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-ef38bc89",
+        "title": "Disney+",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "streaming_disney_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "streaming_disney_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🎬",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/disney-plus.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-815d43f2",
+        "title": "Crunchyroll",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "streaming_crunchyroll_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "streaming_crunchyroll_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🎬",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/crunchyroll.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      }
+    ],
+    "showAllTab": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "pinToTop": true,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-37ec0845",
+    "title": "🎭 Genres",
+    "folders": [
+      {
+        "id": "folder-784c27a6",
+        "title": "Drama",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "genre_drama_series"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "genre_drama_latest_series"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "genre_drama_series_mdb"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "genre_drama_series"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "genre_drama_latest_series"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "genre_drama_series_mdb"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🎭",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/drama.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-ba716248",
+        "title": "Top Rated Drama",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "genre_drama_toprated_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "genre_drama_toprated_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "⭐",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/top-rated.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-d6e09b41",
+        "title": "Comedy",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "genre_comedy_series"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "genre_comedy_series_mdb"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "genre_comedy_series"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "genre_comedy_series_mdb"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "😂",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/comedy.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-90009d13",
+        "title": "Family",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "genre_family_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "genre_family_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "genre_family_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "genre_family_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "👪",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/family.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-f941180b",
+        "title": "Documentary",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "genre_documentary_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "genre_documentary_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "genre_documentary_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "genre_documentary_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🎥",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/documentary.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      }
+    ],
+    "showAllTab": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "pinToTop": true,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-935cb927",
+    "title": "🍥 Anime",
+    "folders": [
+      {
+        "id": "folder-1712f81a",
+        "title": "Most Popular Anime",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "anime_best_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "anime_best_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "anime_best_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "anime_best_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🔥",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/anime-popular.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-25c06ab0",
+        "title": "Top Rated Anime",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "anime_toprated_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "anime_toprated_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "anime_toprated_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "anime_toprated_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "⭐",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/anime-top-rated.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-e9db6594",
+        "title": "Latest Anime",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "anime_latest_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "anime_latest_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🆕",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/anime-latest.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-2d0eebc5",
+        "title": "Anime Series",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "genre_anime_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "genre_anime_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🍥",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/anime-series.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-0e4b7101",
+        "title": "Crunchyroll",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "streaming_crunchyroll_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "streaming_crunchyroll_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "▶",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/crunchyroll.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      }
+    ],
+    "showAllTab": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "pinToTop": true,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-3257ea0e",
+    "title": "🎥 Documentaries",
+    "folders": [
+      {
+        "id": "folder-d4832711",
+        "title": "Documentaries",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "genre_documentary_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "genre_documentary_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "genre_documentary_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "genre_documentary_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🎥",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/documentary.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "folder-32bb99e6",
+        "title": "Latest Documentaries",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "genre_documentary_latest_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "genre_documentary_latest_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "genre_documentary_latest_movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "genre_documentary_latest_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🆕",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/latest-documentary.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      }
+    ],
+    "showAllTab": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "pinToTop": true,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-21b3d245",
+    "title": "🌍 World",
+    "folders": [
+      {
+        "id": "folder-f1998bbe",
+        "title": "Latest Arabic",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "provider": "addon",
+            "catalogId": "world_ar_latest_movies"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "app.xperience.741d4ade-cde4-46f0-81c8-3e3bc89769d5",
+            "catalogId": "world_ar_latest_movies"
+          }
+        ],
+        "focusGifEnabled": false,
+        "coverEmoji": "🌍",
+        "coverImageUrl": "https://raw.githubusercontent.com/mohmf/nuvio/main/artwork/latest-arabic.jpg",
+        "focusGifUrl": null,
+        "titleLogoUrl": null,
+        "heroBackdropUrl": null
+      }
+    ],
+    "showAllTab": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "pinToTop": false,
+    "focusGlowEnabled": true
+  }
+]
